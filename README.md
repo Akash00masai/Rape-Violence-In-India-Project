@@ -76,10 +76,8 @@ This choropleth map highlights the geographical distribution of reported sexual 
 
 
 ## 📋 Authors
-- Daniyal Shaikh
 - Sagar patil
 - Akash singh rathore
-- Jasveer
 
 
 ## ✉ Feedback
