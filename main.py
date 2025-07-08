@@ -567,10 +567,8 @@ local_css()
 st.markdown("""# :male-student: About Section - 
 This Streamlit dashboard analyzes sexual assault and rape cases in India (1999-2020) with interactive visualizations and geospatial mapping. It includes filters, trends, offender breakdowns, and state-wise comparisons for deeper insights. Optimized with custom styling and KPI metrics, it ensures an engaging user experience.
 *Done By*
-\n:one: Daniyal Shaikh
-\n:two: Jasveer
-\n:three: Sagar patil
-\n:four: Akash singh rathour
+\n:one: Sagar patil
+\n:two: Akash singh rathour
 \n Thanks :heartpulse:
 """)
 
